@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Dev\Projects\Pong\Pong\main.cpp(76,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Dev\Projects\Pong\Pong\main.cpp(82,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Dev\Projects\Pong\Pong\main.cpp(83,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Dev\Projects\Pong\Pong\main.cpp(103,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Dev\Projects\Pong\x64\Debug\Pong.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
